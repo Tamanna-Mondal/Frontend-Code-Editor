@@ -13,4 +13,4 @@ A simple web-based code editor that allows users to write and preview HTML, CSS,
 - JavaScript
 
 ## How to Use
-1. Clone the repository:
+1.  https://tamanna-mondal.github.io/Frontend-Code-Editor/  -> 
